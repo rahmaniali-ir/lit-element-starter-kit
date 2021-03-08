@@ -1,4 +1,4 @@
-# 📝 lit-element-starter-kit
+# lit-element-starter-kit
 
   - [🧐 About <a name = "getting_started"></a>](#-about-)
   - [🏁 Getting Started <a name = "getting_started"></a>](#-getting-started-)
@@ -7,7 +7,7 @@
   - [🎈 Resources <a name="resources"></a>](#-resources-)
   - [✍️ Author <a name = "author"></a>](#️-author-)
 
-## 🧐 About <a name = "getting_started"></a>
+## About <a name = "getting_started"></a>
 
 Easy to use, zero config web component starter kit. Using `lit-element`, `parcel` and `babel`.
 
