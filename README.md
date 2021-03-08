@@ -9,13 +9,13 @@
 
 ## 🧐 About <a name = "getting_started"></a>
 
-Easy to use, zero config lit-element starter kit.
+Easy to use, zero config web component starter kit. Using `lit-element`, `parcel` and `babel`.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 Create your components in `src/components` folder and import them in the `src/index.js` file. then you can use them in `index.html`.
 
-The parcel bundler entry point is the `src/index.html` file, so every imported file would make its way to the final build.
+The parcel bundler entry point is the `src/index.html` file, So every imported file would make its way to the final build.
 
 ## 🏃‍♂️ Running the project <a name = "running_project"></a>
 
@@ -25,7 +25,7 @@ You can simply run your project by the following script:
 npm run serve
 ```
 
-This will serve the project on port `1234` by default. but you can change this by adding `--port yourPort` the the `serve` script.
+This will serve the project on port `1234` by default. But you can change this by adding `--port yourPort` the the `serve` script.
 
 For more information, see the [parcel documentation](https://parceljs.org/getting_started.html).
 
@@ -38,9 +38,10 @@ npm run build
 
 ## 🎈 Resources <a name="resources"></a>
 
-- [Parcel](https://parceljs.org/) bundler
-- [LitElement](https://lit-element.polymer-project.org/) base class
 - [WebComponents](https://developer.mozilla.org/en-US/docs/Web/Web_Components) introduction
+- [LitElement](https://lit-element.polymer-project.org/) base class
+- [Parcel](https://parceljs.org/) bundler
+- [Babel](https://babeljs.io/) compiler
 
 ## ✍️ Author <a name = "author"></a>
 
