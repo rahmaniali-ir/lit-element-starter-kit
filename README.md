@@ -45,4 +45,8 @@ npm run build
 ## ✍️ Author <a name = "author"></a>
 
 - [@rahmaniali-ir](https://github.com/rahmaniali-ir) on github
+- [@rahmaniali_ir](https://twitter.com/rahmaniali_ir) on twitter
+- [@rahmaniali.ir](https://instagram.com/rahmaniali-ir) on Instagram
 - [rahmaniali.ir](https://rahmaniali.ir/) website
+
+## 😘 Good luck
