@@ -1,12 +1,11 @@
-## 📝 lit-element-starter-kit
+# 📝 lit-element-starter-kit
 
-- [📝 lit-element-starter-kit](#-lit-element-starter-kit)
-- [🧐 About <a name = "getting_started"></a>](#-about-)
-- [🏁 Getting Started <a name = "getting_started"></a>](#-getting-started-)
-- [🏃‍♂️ Running the project <a name = "running_project"></a>](#️-running-the-project-)
-- [🔧 Building the project <a name = "building_project"></a>](#-building-the-project-)
-- [🎈 Resources <a name="resources"></a>](#-resources-)
-- [✍️ Author <a name = "author"></a>](#️-author-)
+  - [🧐 About <a name = "getting_started"></a>](#-about-)
+  - [🏁 Getting Started <a name = "getting_started"></a>](#-getting-started-)
+  - [🏃‍♂️ Running the project <a name = "running_project"></a>](#️-running-the-project-)
+  - [🔧 Building the project <a name = "building_project"></a>](#-building-the-project-)
+  - [🎈 Resources <a name="resources"></a>](#-resources-)
+  - [✍️ Author <a name = "author"></a>](#️-author-)
 
 ## 🧐 About <a name = "getting_started"></a>
 
@@ -14,7 +13,9 @@ Easy to use, zero config lit-element starter kit.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-Create components in `src/components` folder, import them in the `src/index.js` file and use them in `index.html`.
+Create your components in `src/components` folder and import them in the `src/index.js` file. then you can use them in `index.html`.
+
+The parcel bundler entry point is the `src/index.html` file, so every imported file would make its way to the final build.
 
 ## 🏃‍♂️ Running the project <a name = "running_project"></a>
 
@@ -25,6 +26,7 @@ npm run serve
 ```
 
 This will serve the project on port `1234` by default. but you can change this by adding `--port yourPort` the the `serve` script.
+
 For more information, see the [parcel documentation](https://parceljs.org/getting_started.html).
 
 ## 🔧 Building the project <a name = "building_project"></a>
