@@ -1,0 +1,32 @@
+{
+  "name": "lit-element-starter-kit",
+  "version": "1.0.0",
+  "description": "lit-element-starter-kit is the minimum requirement to start a web component project.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lit-element",
+    "parcel",
+    "webcomponent",
+    "babel"
+  ],
+  "author": "Ali Rahmani",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "lit-element": "^2.4.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.13.0",
+    "@babel/core": "^7.13.8",
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "@babel/plugin-transform-runtime": "^7.13.9",
+    "@babel/preset-env": "^7.13.9",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "parcel-bundler": "^1.12.3"
+  }
+}
